@@ -1,0 +1,677 @@
+24.11.2021 9:54:17: Starting read lines.
+24.11.2021 9:54:17: Read lines
+[
+  {
+    "Active": true,
+    "Timeout": 5000,
+    "Name": "line3",
+    "IPAdress": "192.168.1.137",
+    "Type": "single",
+    "DeleteAt": null,
+    "_system": null,
+    "_rc": null
+  },
+  {
+    "Active": true,
+    "Timeout": 5000,
+    "Name": "line4",
+    "IPAdress": "192.168.1.147",
+    "Type": "self",
+    "DeleteAt": null,
+    "_system": null,
+    "_rc": null
+  }
+]
+24.11.2021 9:54:17: Find active line
+{
+  "Active": true,
+  "Timeout": 5000,
+  "Name": "line3",
+  "IPAdress": "192.168.1.137",
+  "Type": "single",
+  "DeleteAt": null,
+  "_system": null,
+  "_rc": null
+}
+24.11.2021 9:54:17: Starting connect to line.
+24.11.2021 9:54:18: Find active line
+{
+  "Active": true,
+  "Timeout": 5000,
+  "Name": "line4",
+  "IPAdress": "192.168.1.147",
+  "Type": "self",
+  "DeleteAt": null,
+  "_system": null,
+  "_rc": null
+}
+24.11.2021 9:54:18: Starting connect to line.
+24.11.2021 9:57:52: Disconnected line line3
+24.11.2021 9:57:52: Disconnected line line4
+24.11.2021 9:57:54: Starting read lines.
+24.11.2021 9:57:54: Read lines
+[
+  {
+    "Active": true,
+    "Timeout": 5000,
+    "Name": "line3",
+    "IPAdress": "192.168.1.137",
+    "Type": "single",
+    "DeleteAt": null,
+    "_system": null,
+    "_rc": null
+  },
+  {
+    "Active": true,
+    "Timeout": 5000,
+    "Name": "line4",
+    "IPAdress": "192.168.1.147",
+    "Type": "self",
+    "DeleteAt": null,
+    "_system": null,
+    "_rc": null
+  }
+]
+24.11.2021 9:57:55: Find active line
+{
+  "Active": true,
+  "Timeout": 5000,
+  "Name": "line4",
+  "IPAdress": "192.168.1.147",
+  "Type": "self",
+  "DeleteAt": null,
+  "_system": null,
+  "_rc": null
+}
+24.11.2021 9:57:55: Starting connect to line.
+24.11.2021 9:57:55: Find active line
+{
+  "Active": true,
+  "Timeout": 5000,
+  "Name": "line3",
+  "IPAdress": "192.168.1.137",
+  "Type": "single",
+  "DeleteAt": null,
+  "_system": null,
+  "_rc": null
+}
+24.11.2021 9:57:55: Starting connect to line.
+24.11.2021 9:59:20: Disconnected line line3
+24.11.2021 9:59:20: Disconnected line line4
+11/24/2021 10:39:41 AM: Starting read lines.
+11/24/2021 10:39:41 AM: Read lines
+[
+  {
+    "Active": true,
+    "Timeout": 5000,
+    "Name": "line3",
+    "IPAdress": "192.168.1.137",
+    "Type": "single",
+    "DeleteAt": null,
+    "_system": null,
+    "_rc": null
+  },
+  {
+    "Active": true,
+    "Timeout": 5000,
+    "Name": "line4",
+    "IPAdress": "192.168.1.147",
+    "Type": "self",
+    "DeleteAt": null,
+    "_system": null,
+    "_rc": null
+  }
+]
+11/24/2021 10:39:42 AM: Find active line
+{
+  "Active": true,
+  "Timeout": 5000,
+  "Name": "line4",
+  "IPAdress": "192.168.1.147",
+  "Type": "self",
+  "DeleteAt": null,
+  "_system": null,
+  "_rc": null
+}
+11/24/2021 10:39:42 AM: Starting connect to line.
+11/24/2021 10:39:42 AM: Find active line
+{
+  "Active": true,
+  "Timeout": 5000,
+  "Name": "line3",
+  "IPAdress": "192.168.1.137",
+  "Type": "single",
+  "DeleteAt": null,
+  "_system": null,
+  "_rc": null
+}
+11/24/2021 10:39:42 AM: Starting connect to line.
+11/24/2021 10:40:59 AM: Arrived data 0104650100290892215t;GNW930IYF
+11/24/2021 10:41:01 AM: Arrived data 0104650100290892215t;GNW930IYF
+11/24/2021 10:41:03 AM: Arrived data 0104650100290892215t;GNW930IYF
+11/24/2021 10:41:05 AM: Arrived data 0104650100290892215vA;bs93oLh7
+11/24/2021 10:41:07 AM: Arrived data 0104650100290892215vA;bs93oLh7
+11/24/2021 10:41:15 AM: Arrived data 0104650100290892215vA;bs93oLh7
+11/24/2021 10:41:17 AM: Arrived data 0104650100290892215vA;bs93oLh7
+11/24/2021 10:41:30 AM: Arrived data 0104650100290892215seCFZ93fMB7
+11/24/2021 10:41:32 AM: Arrived data 0104650100290892215seCFZ93fMB7
+11/24/2021 10:41:34 AM: Arrived data 0104650100290892215seCFZ93fMB7
+11/24/2021 10:41:36 AM: Arrived data 0104650100290892215seCFZ93fMB7
+11/24/2021 2:48:18 PM: Starting connect to line.
+11/24/2021 2:48:19 PM: Starting connect to line.
+11/24/2021 4:07:28 PM: Disconnected line 
+11/24/2021 4:07:28 PM: Disconnected line 
+11/24/2021 4:07:28 PM: Disconnected line 
+11/24/2021 4:17:34 PM: Disconnected line line4
+11/24/2021 5:12:15 PM: Disconnected line line3
+11/25/2021 8:23:26 AM: Starting read lines.
+11/25/2021 8:23:26 AM: Read lines
+[
+  {
+    "Active": true,
+    "Timeout": 5000,
+    "Name": "line3",
+    "IPAdress": "192.168.1.137",
+    "Type": "single",
+    "DeleteAt": null,
+    "_system": null,
+    "_rc": null
+  },
+  {
+    "Active": true,
+    "Timeout": 5000,
+    "Name": "line4",
+    "IPAdress": "192.168.1.147",
+    "Type": "self",
+    "DeleteAt": null,
+    "_system": null,
+    "_rc": null
+  },
+  {
+    "Active": true,
+    "Timeout": 5000,
+    "Name": "",
+    "IPAdress": "192.168.1.174",
+    "Type": "manual",
+    "DeleteAt": null,
+    "_system": null,
+    "_rc": null
+  },
+  {
+    "Active": true,
+    "Timeout": 5000,
+    "Name": "",
+    "IPAdress": "192.168.1.140",
+    "Type": "manual",
+    "DeleteAt": null,
+    "_system": null,
+    "_rc": null
+  }
+]
+11/25/2021 8:23:26 AM: Find active line
+{
+  "Active": true,
+  "Timeout": 5000,
+  "Name": "line4",
+  "IPAdress": "192.168.1.147",
+  "Type": "self",
+  "DeleteAt": null,
+  "_system": null,
+  "_rc": null
+}
+11/25/2021 8:23:26 AM: Starting connect to line.
+11/25/2021 8:23:26 AM: Find active line
+{
+  "Active": true,
+  "Timeout": 5000,
+  "Name": "line3",
+  "IPAdress": "192.168.1.137",
+  "Type": "single",
+  "DeleteAt": null,
+  "_system": null,
+  "_rc": null
+}
+11/25/2021 8:23:26 AM: Starting connect to line.
+11/25/2021 8:23:27 AM: Find active line
+{
+  "Active": true,
+  "Timeout": 5000,
+  "Name": "",
+  "IPAdress": "192.168.1.174",
+  "Type": "manual",
+  "DeleteAt": null,
+  "_system": null,
+  "_rc": null
+}
+11/25/2021 8:23:27 AM: Starting connect to line.
+11/25/2021 8:23:27 AM: Find active line
+{
+  "Active": true,
+  "Timeout": 5000,
+  "Name": "",
+  "IPAdress": "192.168.1.140",
+  "Type": "manual",
+  "DeleteAt": null,
+  "_system": null,
+  "_rc": null
+}
+11/25/2021 8:23:27 AM: Starting connect to line.
+11/25/2021 8:23:43 AM: Disconnected line line3
+11/25/2021 8:23:43 AM: Disconnected line line4
+11/25/2021 8:23:43 AM: Disconnected line 
+11/25/2021 8:23:43 AM: Disconnected line 
+11/25/2021 8:24:22 AM: Starting read lines.
+11/25/2021 8:24:22 AM: Read lines
+[
+  {
+    "Active": true,
+    "Timeout": 5000,
+    "Name": "line3",
+    "IPAdress": "192.168.1.137",
+    "Type": "single",
+    "DeleteAt": null,
+    "_system": null,
+    "_rc": null
+  },
+  {
+    "Active": true,
+    "Timeout": 5000,
+    "Name": "line4",
+    "IPAdress": "192.168.1.147",
+    "Type": "self",
+    "DeleteAt": null,
+    "_system": null,
+    "_rc": null
+  },
+  {
+    "Active": true,
+    "Timeout": 5000,
+    "Name": "",
+    "IPAdress": "192.168.1.174",
+    "Type": "manual",
+    "DeleteAt": null,
+    "_system": null,
+    "_rc": null
+  },
+  {
+    "Active": true,
+    "Timeout": 5000,
+    "Name": "",
+    "IPAdress": "192.168.1.140",
+    "Type": "manual",
+    "DeleteAt": null,
+    "_system": null,
+    "_rc": null
+  }
+]
+11/25/2021 8:24:23 AM: Find active line
+{
+  "Active": true,
+  "Timeout": 5000,
+  "Name": "line4",
+  "IPAdress": "192.168.1.147",
+  "Type": "self",
+  "DeleteAt": null,
+  "_system": null,
+  "_rc": null
+}
+11/25/2021 8:24:23 AM: Starting connect to line.
+11/25/2021 8:24:23 AM: Find active line
+{
+  "Active": true,
+  "Timeout": 5000,
+  "Name": "line3",
+  "IPAdress": "192.168.1.137",
+  "Type": "single",
+  "DeleteAt": null,
+  "_system": null,
+  "_rc": null
+}
+11/25/2021 8:24:23 AM: Starting connect to line.
+11/25/2021 8:24:23 AM: Find active line
+{
+  "Active": true,
+  "Timeout": 5000,
+  "Name": "",
+  "IPAdress": "192.168.1.174",
+  "Type": "manual",
+  "DeleteAt": null,
+  "_system": null,
+  "_rc": null
+}
+11/25/2021 8:24:23 AM: Starting connect to line.
+11/25/2021 8:24:23 AM: Find active line
+{
+  "Active": true,
+  "Timeout": 5000,
+  "Name": "",
+  "IPAdress": "192.168.1.140",
+  "Type": "manual",
+  "DeleteAt": null,
+  "_system": null,
+  "_rc": null
+}
+11/25/2021 8:24:24 AM: Starting connect to line.
+11/25/2021 8:24:34 AM: Disconnected line line3
+11/25/2021 8:24:34 AM: Disconnected line line4
+11/25/2021 8:24:34 AM: Disconnected line 
+11/25/2021 8:24:34 AM: Disconnected line 
+11/25/2021 8:26:19 AM: Starting read lines.
+11/25/2021 8:26:19 AM: Read lines
+[
+  {
+    "Active": true,
+    "Timeout": 5000,
+    "Name": "line3",
+    "IPAdress": "192.168.1.137",
+    "Type": "single",
+    "DeleteAt": null,
+    "_system": null,
+    "_rc": null
+  },
+  {
+    "Active": true,
+    "Timeout": 5000,
+    "Name": "line4",
+    "IPAdress": "192.168.1.147",
+    "Type": "self",
+    "DeleteAt": null,
+    "_system": null,
+    "_rc": null
+  },
+  {
+    "Active": true,
+    "Timeout": 5000,
+    "Name": "",
+    "IPAdress": "192.168.1.174",
+    "Type": "manual",
+    "DeleteAt": null,
+    "_system": null,
+    "_rc": null
+  },
+  {
+    "Active": true,
+    "Timeout": 5000,
+    "Name": "",
+    "IPAdress": "192.168.1.140",
+    "Type": "manual",
+    "DeleteAt": null,
+    "_system": null,
+    "_rc": null
+  }
+]
+11/25/2021 8:26:19 AM: Find active line
+{
+  "Active": true,
+  "Timeout": 5000,
+  "Name": "",
+  "IPAdress": "192.168.1.140",
+  "Type": "manual",
+  "DeleteAt": null,
+  "_system": null,
+  "_rc": null
+}
+11/25/2021 8:26:19 AM: Starting connect to line.
+11/25/2021 8:26:20 AM: Find active line
+{
+  "Active": true,
+  "Timeout": 5000,
+  "Name": "",
+  "IPAdress": "192.168.1.174",
+  "Type": "manual",
+  "DeleteAt": null,
+  "_system": null,
+  "_rc": null
+}
+11/25/2021 8:26:20 AM: Starting connect to line.
+11/25/2021 8:26:20 AM: Find active line
+{
+  "Active": true,
+  "Timeout": 5000,
+  "Name": "line4",
+  "IPAdress": "192.168.1.147",
+  "Type": "self",
+  "DeleteAt": null,
+  "_system": null,
+  "_rc": null
+}
+11/25/2021 8:26:20 AM: Starting connect to line.
+11/25/2021 8:26:20 AM: Find active line
+{
+  "Active": true,
+  "Timeout": 5000,
+  "Name": "line3",
+  "IPAdress": "192.168.1.137",
+  "Type": "single",
+  "DeleteAt": null,
+  "_system": null,
+  "_rc": null
+}
+11/25/2021 8:26:20 AM: Starting connect to line.
+11/25/2021 9:55:49 AM: Disconnected line line3
+11/25/2021 9:55:49 AM: Disconnected line line4
+11/25/2021 9:55:49 AM: Disconnected line 
+11/25/2021 9:55:49 AM: Disconnected line 
+11/25/2021 9:56:06 AM: Starting read lines.
+11/25/2021 9:56:06 AM: Read lines
+[
+  {
+    "Active": true,
+    "Timeout": 5000,
+    "Name": "line3",
+    "IPAdress": "192.168.1.137",
+    "Type": "single",
+    "DeleteAt": null,
+    "RecconectAtempt": 0,
+    "RecconectDelay": 0,
+    "_system": null,
+    "_rc": null
+  },
+  {
+    "Active": true,
+    "Timeout": 5000,
+    "Name": "line4",
+    "IPAdress": "192.168.1.147",
+    "Type": "self",
+    "DeleteAt": null,
+    "RecconectAtempt": 0,
+    "RecconectDelay": 0,
+    "_system": null,
+    "_rc": null
+  },
+  {
+    "Active": true,
+    "Timeout": 5000,
+    "Name": "",
+    "IPAdress": "192.168.1.174",
+    "Type": "manual",
+    "DeleteAt": null,
+    "RecconectAtempt": 0,
+    "RecconectDelay": 0,
+    "_system": null,
+    "_rc": null
+  },
+  {
+    "Active": true,
+    "Timeout": 5000,
+    "Name": "",
+    "IPAdress": "192.168.1.140",
+    "Type": "manual",
+    "DeleteAt": null,
+    "RecconectAtempt": 0,
+    "RecconectDelay": 0,
+    "_system": null,
+    "_rc": null
+  }
+]
+11/25/2021 9:56:06 AM: Service started.
+11/25/2021 9:56:07 AM: Find active line
+{
+  "Active": true,
+  "Timeout": 5000,
+  "Name": "line3",
+  "IPAdress": "192.168.1.137",
+  "Type": "single",
+  "DeleteAt": null,
+  "RecconectAtempt": 0,
+  "RecconectDelay": 0,
+  "_system": null,
+  "_rc": null
+}
+11/25/2021 9:56:07 AM: Starting connect to line.
+11/25/2021 9:56:07 AM: Find active line
+{
+  "Active": true,
+  "Timeout": 5000,
+  "Name": "line4",
+  "IPAdress": "192.168.1.147",
+  "Type": "self",
+  "DeleteAt": null,
+  "RecconectAtempt": 0,
+  "RecconectDelay": 0,
+  "_system": null,
+  "_rc": null
+}
+11/25/2021 9:56:07 AM: Starting connect to line.
+11/25/2021 9:56:07 AM: Find active line
+{
+  "Active": true,
+  "Timeout": 5000,
+  "Name": "",
+  "IPAdress": "192.168.1.140",
+  "Type": "manual",
+  "DeleteAt": null,
+  "RecconectAtempt": 0,
+  "RecconectDelay": 0,
+  "_system": null,
+  "_rc": null
+}
+11/25/2021 9:56:07 AM: Starting connect to line.
+11/25/2021 9:56:08 AM: Find active line
+{
+  "Active": true,
+  "Timeout": 5000,
+  "Name": "",
+  "IPAdress": "192.168.1.174",
+  "Type": "manual",
+  "DeleteAt": null,
+  "RecconectAtempt": 0,
+  "RecconectDelay": 0,
+  "_system": null,
+  "_rc": null
+}
+11/25/2021 9:56:08 AM: Starting connect to line.
+11/25/2021 9:56:08 AM: Disconnected line line3
+11/25/2021 9:56:08 AM: Disconnected line line4
+11/25/2021 9:56:08 AM: Disconnected line 
+11/25/2021 9:56:08 AM: Disconnected line 
+11/25/2021 9:56:08 AM: Service stoped. Goodbye.
+11/25/2021 9:56:16 AM: Starting read lines.
+11/25/2021 9:56:16 AM: Read lines
+[
+  {
+    "Active": true,
+    "Timeout": 5000,
+    "Name": "line3",
+    "IPAdress": "192.168.1.137",
+    "Type": "single",
+    "DeleteAt": null,
+    "RecconectAtempt": 0,
+    "RecconectDelay": 0,
+    "_system": null,
+    "_rc": null
+  },
+  {
+    "Active": true,
+    "Timeout": 5000,
+    "Name": "line4",
+    "IPAdress": "192.168.1.147",
+    "Type": "self",
+    "DeleteAt": null,
+    "RecconectAtempt": 0,
+    "RecconectDelay": 0,
+    "_system": null,
+    "_rc": null
+  },
+  {
+    "Active": true,
+    "Timeout": 5000,
+    "Name": "",
+    "IPAdress": "192.168.1.174",
+    "Type": "manual",
+    "DeleteAt": null,
+    "RecconectAtempt": 0,
+    "RecconectDelay": 0,
+    "_system": null,
+    "_rc": null
+  },
+  {
+    "Active": true,
+    "Timeout": 5000,
+    "Name": "",
+    "IPAdress": "192.168.1.140",
+    "Type": "manual",
+    "DeleteAt": null,
+    "RecconectAtempt": 0,
+    "RecconectDelay": 0,
+    "_system": null,
+    "_rc": null
+  }
+]
+11/25/2021 9:56:16 AM: Service started.
+11/25/2021 9:56:16 AM: Find active line
+{
+  "Active": true,
+  "Timeout": 5000,
+  "Name": "line4",
+  "IPAdress": "192.168.1.147",
+  "Type": "self",
+  "DeleteAt": null,
+  "RecconectAtempt": 0,
+  "RecconectDelay": 0,
+  "_system": null,
+  "_rc": null
+}
+11/25/2021 9:56:16 AM: Starting connect to line.
+11/25/2021 9:56:16 AM: Find active line
+{
+  "Active": true,
+  "Timeout": 5000,
+  "Name": "",
+  "IPAdress": "192.168.1.140",
+  "Type": "manual",
+  "DeleteAt": null,
+  "RecconectAtempt": 0,
+  "RecconectDelay": 0,
+  "_system": null,
+  "_rc": null
+}
+11/25/2021 9:56:16 AM: Starting connect to line.
+11/25/2021 9:56:16 AM: Find active line
+{
+  "Active": true,
+  "Timeout": 5000,
+  "Name": "",
+  "IPAdress": "192.168.1.174",
+  "Type": "manual",
+  "DeleteAt": null,
+  "RecconectAtempt": 0,
+  "RecconectDelay": 0,
+  "_system": null,
+  "_rc": null
+}
+11/25/2021 9:56:16 AM: Starting connect to line.
+11/25/2021 9:56:16 AM: Find active line
+{
+  "Active": true,
+  "Timeout": 5000,
+  "Name": "line3",
+  "IPAdress": "192.168.1.137",
+  "Type": "single",
+  "DeleteAt": null,
+  "RecconectAtempt": 0,
+  "RecconectDelay": 0,
+  "_system": null,
+  "_rc": null
+}
+11/25/2021 9:56:17 AM: Starting connect to line.
